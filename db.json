@@ -1,1 +1,24 @@
-# pwaapi
+{
+"products" : [
+  {"id":1,"name":"Bleeding heart monkey","category":"Violet"},
+  {"id":2,"name":"Steenbok","category":"Khaki"},
+  {"id":3,"name":"Grey mouse lemur","category":"Orange"},
+  {"id":4,"name":"Kelp gull","category":"Orange"},
+{"id":5,"name":"Vulture, turkey","category":"Mauv"},
+{"id":6,"name":"Bahama pintail","category":"Violet"},
+{"id":7,"name":"White-bellied sea eagle","category":"Maroon"},
+{"id":8,"name":"Defassa waterbuck","category":"Indigo"},
+{"id":9,"name":"Eagle, pallas's fish","category":"Orange"},
+{"id":10,"name":"Tenrec, tailless","category":"Green"},
+{"id":11,"name":"Gerenuk","category":"Mauv"},
+{"id":12,"name":"Hoary marmot","category":"Crimson"},
+{"id":13,"name":"Red-tailed cockatoo","category":"Orange"},
+{"id":14,"name":"Fairy penguin","category":"Blue"},
+{"id":15,"name":"Cardinal, black-throated","category":"Turquoise"},
+{"id":16,"name":"Snake, green vine","category":"Red"},
+{"id":17,"name":"Tawny eagle","category":"Green"},
+{"id":18,"name":"Dove, little brown","category":"Purple"},
+{"id":19,"name":"Butterfly, canadian tiger swallowtail","category":"Crimson"},
+{"id":20,"name":"Crab-eating fox","category":"Crimson"}
+  ]
+}
